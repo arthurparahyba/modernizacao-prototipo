@@ -9,6 +9,26 @@ Aplicação que recebe uma lista de repositórios legados e descobre:
 
 A interface é feita para pessoas de negócio. Os agentes são construídos com o [Flue](https://flueframework.com), que roda sobre o Pi.
 
+## Como é a aplicação
+
+Imagens do protótipo, com dados de exemplo.
+
+**Portfólio:** quais aplicações são modernas, quais são legadas e como anda a análise.
+
+![Tela de portfólio com as aplicações classificadas e o assistente](docs/telas/portfolio.png)
+
+**Conexões:** quem chama quem, com a evidência no código e os sistemas fora do escopo.
+
+![Tela de conexões com a matriz de chamadas entre aplicações](docs/telas/conexoes.png)
+
+**Funcionalidades:** cada funcionalidade de ponta a ponta, com os repositórios em que está espalhada e a prioridade sugerida.
+
+![Tela de funcionalidades com a lista priorizada e os detalhes da selecionada](docs/telas/funcionalidades.png)
+
+**Plano de migração:** ondas que entregam funcionalidades inteiras e mostram quanto de cada legado já pode sair.
+
+![Tela do plano de migração com as ondas e o assistente](docs/telas/plano.png)
+
 ## Por onde começar
 
 | Se você quer… | Leia |
